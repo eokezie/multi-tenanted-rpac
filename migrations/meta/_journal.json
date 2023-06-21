@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1687308144994,
+      "tag": "0000_bored_randall",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1687308769181,
+      "tag": "0001_shocking_gravity",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1687309054119,
+      "tag": "0002_jazzy_patriot",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1687309347665,
+      "tag": "0003_blushing_eternity",
+      "breakpoints": false
+    }
+  ]
+}

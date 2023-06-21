@@ -5,6 +5,8 @@ export const logger = pino({
      * according to the 
      * documentation: https://getpino.io/#/docs/api?id=pretty
      */
+    redact: ["DB_CONNECTION"],
+    level: "debug",
     transport: {
         target: 'pino-pretty'
     },
